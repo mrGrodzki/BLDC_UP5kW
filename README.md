@@ -10,8 +10,14 @@ Module made on aluminum PCB, for better heat dissipation to the heat sink from t
 
 On one heat sink there are 3 power modules (half bridge + current measurement) and one synchronous DC-DC converter for power supply. Power input and output from the boards by means of special nuts soldered to the printed circuit board.
 Next to it, in the same housing, there is the main control board containing the main control microcontroller.
-Large half-bridge plates made for better heat dissipation
+Large half-bridge plates made for better heat dissipation.
 
+# SW:
+
+Driver control code generated from STM Motor SDK. At the present stage I will not release SW because I tested HW.
+
+
+# HW:
 __________________________
 # V2.0
 Schematic:
