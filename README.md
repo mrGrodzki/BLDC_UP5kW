@@ -18,7 +18,7 @@ Driver control code generated from STM Motor SDK. At the present stage I will no
 
 
 # HW:
-__________________________
+
 # V2.0
 Schematic:
 
@@ -30,7 +30,6 @@ Aluminium PCB:
 
 Actual photos:
 
-__________________________
 # V1.0
 
 Schematic:
