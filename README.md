@@ -15,4 +15,4 @@ Schematic:
 
 Aluminium PCB:
 
-![Alt Text](https://github.com/mrGrodzki/BLDC_UP5kW/blob/main/v1.0/PCB_BLDCv1_0.png)
+![Alt Text](https://github.com/mrGrodzki/BLDC_UP5kW/blob/main/v1.0/PCBBLDCv1_0.png)
