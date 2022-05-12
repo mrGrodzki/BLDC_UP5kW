@@ -8,7 +8,7 @@ Module made on aluminum PCB, for better heat dissipation to the heat sink from t
 
 # Concept:
 
-On one heat sink there are 3 power modules (half bridge + current measurement) and one synchronous DC-DC converter. Power input and output from the boards by means of special nuts soldered to the printed circuit board.
+On one heat sink there are 3 power modules (half bridge + current measurement) and one synchronous DC-DC converter for power supply. Power input and output from the boards by means of special nuts soldered to the printed circuit board.
 Next to it, in the same housing, there is the main control board containing the main control microcontroller.
 
 __________________________
