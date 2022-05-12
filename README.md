@@ -19,7 +19,7 @@ Driver control code generated from STM Motor SDK. At the present stage I will no
 
 # HW:
 
-# V2.0
+# V2.0:
 Schematic:
 
 ![Alt Text](https://github.com/mrGrodzki/BLDC_UP5kW/blob/main/v2.0/schematicBLDCv2_0.png)
@@ -30,7 +30,7 @@ Aluminium PCB:
 
 Actual photos:
 
-# V1.0
+# V1.0:
 
 Schematic:
 
