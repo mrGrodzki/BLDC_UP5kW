@@ -6,4 +6,13 @@ To reduce the cost of the driver, each phase has a separate power module.
 
 Module made on aluminum PCB, for better heat dissipation to the heat sink from the transistors in the smd housing.
 
-__________________________V1.0_____________________________
+__________________________
+# V1.0
+
+Schematic:
+
+![Alt Text](https://github.com/mrGrodzki/BLDC_UP5kW/blob/main/v1.0/schematicBLDCv1_0.png)
+
+Aluminium PCB:
+
+![Alt Text](https://github.com/mrGrodzki/BLDC_UP5kW/blob/main/v1.0/PCB_BLDCv1_0.png)
