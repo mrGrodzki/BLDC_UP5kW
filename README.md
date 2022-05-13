@@ -30,6 +30,8 @@ Aluminium PCB:
 
 Actual photos:
 
+![Alt Text](https://github.com/mrGrodzki/BLDC_UP5kW/blob/main/v2.0/solPCBV2.jpg)
+
 # V1.0:
 
 Schematic:
@@ -41,5 +43,7 @@ Aluminium PCB:
 ![Alt Text](https://github.com/mrGrodzki/BLDC_UP5kW/blob/main/v1.0/PCBBLDCv1_0.png)
 
 Actual photos:
+
+![Alt Text](https://github.com/mrGrodzki/BLDC_UP5kW/blob/main/v1.0/solPCBV1.jpg)
 
 Testing as synchronous dc/dc converter:
