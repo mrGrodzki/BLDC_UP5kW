@@ -24,6 +24,10 @@ Schematic:
 
 ![Alt Text](https://github.com/mrGrodzki/BLDC_UP5kW/blob/main/v2.0/schematicBLDCv2_0.png)
 
+PCB layout:
+
+![Alt Text](https://github.com/mrGrodzki/BLDC_UP5kW/blob/main/v2.0/half-bridge_v2.0.jpg)
+
 Aluminium PCB:
 
 ![Alt Text](https://github.com/mrGrodzki/BLDC_UP5kW/blob/main/v2.0/PCBBLDCv2_0.png)
